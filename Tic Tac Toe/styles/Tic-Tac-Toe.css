@@ -1,0 +1,21 @@
+main{
+    position: fixed;
+    top: 30%;
+    left: 42.5%;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    padding: 3px;
+    border: 5px solid black;
+}
+input {
+    position: fixed;
+    top: 75%;
+    left: 46.5%;
+    height: 5%;
+    width: 10%;
+    font-size: large;
+}
